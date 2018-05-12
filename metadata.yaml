@@ -1,0 +1,29 @@
+_repo: Stand-Up-Ye-Dead_33636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maclean, Norman
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '36510'
+    url: http://www.gutenberg.org/2009/agents/36510
+description: ''
+gutenberg_issued: '2010-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Social conditions -- 20th century'
+tableOfContents: The empty cradle -- The roots of the evil -- The empty countryside
+  -- The man in the slum -- The lord of the slum -- The great refusal -- The slum
+  in the man -- Behind you is God.
+title: Stand Up, Ye Dead
+url: http://www.gutenberg.org/ebooks/33636
